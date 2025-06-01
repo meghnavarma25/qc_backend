@@ -1,0 +1,15 @@
+pydantic
+numpy
+torch
+transformers
+sentence-transformers
+scikit-learn
+numpy
+scipy
+nltk
+joblib
+spacy
+fastapi
+uvicorn
+openai
+dotenv
